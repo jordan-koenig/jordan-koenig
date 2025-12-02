@@ -1,16 +1,21 @@
-## Hi there 👋
+# Jordan Koenig
 
-<!--
-**jordan-koenig/jordan-koenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** TypeScript • JavaScript • Python • SQL
+
+**Frontend:** Next.js • React • Vue • Tailwind CSS • HTML/CSS
+
+**Backend:** NestJS • Node.js • Express • FastAPI
+
+**Database:** PostgreSQL • MongoDB • Redis • MySQL • Drizzle ORM
+
+**Cloud & DevOps:** AWS • Docker • Kubernetes • CI/CD • Git
+
+**Architecture:** Hexagonal Architecture • Domain-Driven Design • Multi-tenant SaaS • Microservices
+
+---
+
+[LinkedIn](https://linkedin.com/in/jordan-koenig-30861517b)
